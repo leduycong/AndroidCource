@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">8-5-2019 (Book ticket)</string>
+
+    <string name="currencies_prompt">Choose the currency</string>
+    <string-array name="currencies_array">
+        <item>USD</item>
+        <item>VND</item>
+    </string-array>
+</resources>
